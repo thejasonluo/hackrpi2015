@@ -1,0 +1,17 @@
+{
+  "intents":[
+    {
+      "intent":"FindMeARecipeIntent",
+      "slots":[
+        {
+          "name":"Recipe",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "IngredientsIntent",
+      "slots":[]
+    }
+  ]
+}

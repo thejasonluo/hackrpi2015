@@ -1,0 +1,14 @@
+FindMeARecipeIntent Get me a recipe for {dark brown|Color}
+FindMeARecipeIntent Whats the recipe for {green|Color}
+FindMeARecipeIntent How do I make {red|Color}
+FindMeARecipeIntent Find me a recipe for {navy blue|Color}
+FindMeARecipeIntent What is the recipe for {navy blue|Color}
+IngredientsIntent whats my color
+IngredientsIntent what is my color
+IngredientsIntent say my color
+IngredientsIntent tell me my color
+IngredientsIntent whats my favorite color
+IngredientsIntent what is my favorite color
+IngredientsIntent say my favorite color
+IngredientsIntent tell me my favorite color
+IngredientsIntent tell me what my favorite color is
